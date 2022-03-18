@@ -1,0 +1,93 @@
+.outer_div{
+    background-image:url(./back.jpg) ;
+    width: 1300px;
+    height: 600px;
+}
+
+.topnav {
+    background-image: url(./bt.jpg);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  img {
+    border-radius: 50%;
+    margin-top: auto;
+  }
+  .profile{
+    text-align: center;
+  }
+  .ab_div{
+    background-image: url(./bt.jpg);
+  }
+  h1 {
+      text-align: center;
+    color: white;
+  }
+  h3{
+      color: white;
+  }
+  .ab_in{
+      width: 200px;
+      height: 200px;
+      
+  }
+  p{
+    text-align: center;
+    color: white;
+  }
+  #file{
+      margin-left: 30px;
+      height: 20px;
+      flex-flow: column;
+      color: black;
+  }
+  .fl{
+    display: flex;
+  }
+  
+  .in_main{
+      background:#FFD662FF;
+      width: 300px;
+      height:150px ;
+      margin-top: auto;
+
+
+  }
+  .inside{
+    background:skyblue;
+    width: 300px;
+    height:150px ;
+
+  }
+  .main {
+      background-image: url('./bt.jpg');
+      text-align: center;
+
+  }
+  .edu{
+    display: flex;
+    align-items: center; /* aligns all the items vertically centered */
+    justify-content: center;
+      
+  }
+.bottom a{
+    display: flex;
+    
+
+}
